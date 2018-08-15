@@ -1,0 +1,5 @@
+
+patches/
+node_modules
+.project
+.vscode

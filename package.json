@@ -1,0 +1,23 @@
+{
+  "name": "proxy-combinator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yossef87/proxy-combinator.git"
+  },
+  "author": "Yossi Ben Naim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yossef87/proxy-combinator/issues"
+  },
+  "homepage": "https://github.com/yossef87/proxy-combinator#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-http-proxy": "^1.2.0"
+  }
+}
